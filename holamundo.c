@@ -2,7 +2,7 @@
 
 inta main()
 {
-    printf("Hello World\n");
+    printf("Hola World\n");
 
     return 0;
 }
